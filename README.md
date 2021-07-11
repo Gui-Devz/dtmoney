@@ -1,46 +1,110 @@
-# Getting Started with Create React App
+<div align="center">
+  <h1 align="center">dtmoney</h1>
+  <img src="https://user-images.githubusercontent.com/62578862/125207970-2ded4c80-e266-11eb-8f22-dad98a1e64ec.png" height ="auto" width="auto">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+</div>
 
-## Available Scripts
+<h4 align="center">
+  Ignite - ReactJS 🚀
+</h4>
+<p align="center">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Gui-Devz/dtmoney">
 
-In the project directory, you can run:
+  <a href="https://www.linkedin.com/in/guilherme-batalha-2b913448/">
+    <img alt="Made by GuilhermeZagari" src="https://img.shields.io/badge/made%20by-GuilhermeZagari-%2304D361">
+  </a>
+  <a href="https://rocketseat.com.br/">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80Ignite_ReactJS-done-brightgreen"></img>
+  </a>
 
-### `yarn start`
+  <a href="https://github.com/Gui-Devz/Foodfy-v2.0/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Gui-Devz/dtmoney">
+  </a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+   <a href="https://github.com/Gui-Devz/Foodfy-v2.0/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/Gui-Devz/dtmoney">
+  </a>
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<p align="center">
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
 
-### `yarn test`
+</h2>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 💻 Project
 
-### `yarn build`
+<p align="center"> dtmoney is an App for your personal finances. </p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[//]: # "Add your gifs/images here:"
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<div align="center">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img width="1604" alt="" src="https://user-images.githubusercontent.com/62578862/125207990-43fb0d00-e266-11eb-8473-a6780391dcff.png">
 
-### `yarn eject`
+</div>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<hr />
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## :rocket: Technologies
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+[//]: # "Add the features of your project here:"
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- 🔵 [ReactJS][reactjs] — A JavaScript library for building user interfaces.
+- 💹 [MirageJS][miragejs] — Mirage JS is an API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services.
+- 💹 [Axios][axios] — Promise based HTTP client for the browser and node.js
+- 💹 [SASS][sass] — Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
+- 💹 [Styled-Components][styled-components] — Styled-components allows you to write actual CSS code to style your components. It also removes the mapping between components and styles.
 
-## Learn More
+## :information_source: How To Use
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] installed on your computer.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Install Front-end
+
+```bash
+# Clone this repository
+$ git clone https://github.com/Gui-Devz/dtmoney.git
+
+# Go into the repository
+$ cd dtmoney
+
+# Install dependencies
+$ yarn install
+
+# Run
+$ yarn start
+
+# running on port 3000
+
+```
+
+## ✍️ How to contribute
+
+- Make a fork;
+- Create a branch with your feature: `git checkout -b my-feature`;
+- Commit changes: `git commit -m 'feat: My new feature'`;
+- Make a push to your branch: `git push origin my-feature`.
+
+After merging your receipt request to done, you can delete a branch from yours.
+
+## License
+
+his project is under the MIT license.
+
+Made with ♥ by Guilherme Zagari :wave: [Get in touch!](https://www.linkedin.com/in/guilherme-batalha-2b913448/)
+
+[nodejs]: https://nodejs.org/
+[nodemailer]: https://nodemailer.com/about/
+[postgresql]: https://www.postgresql.org/
+[express]: https://expressjs.com/
+[json-server]: https://github.com/typicode/json-server
+[miragejs]: https://github.com/typicode/json-server
+[reactjs]: https://reactjs.org/
+[axios]: https://github.com/axios/axios
+[sass]: https://sass-lang.com/
+[styled-components]: https://github.com/styled-components/styled-components
